@@ -19,6 +19,7 @@ int main(){
         }
 
      }
+     printf("Ascending order:");
     for(i=0;i<n;i++){
         printf("%d ", elements[i]);
       }
