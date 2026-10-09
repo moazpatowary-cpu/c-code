@@ -16,7 +16,7 @@ List any software, tools, or global packages needed before installing.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/moazpatowary-cpu/c-code.git
+   git clone https://github.com/moazaahmed/c-code.git
    ```
 2. Navigate into the project directory:
    ```bash
@@ -32,5 +32,5 @@ List any software, tools, or global packages needed before installing.
 
 ## ✉️ Contact
 
-* **Project Maintainer:** Moaz Patowary
-* **Project Link:** https://github.com/moazpatowary-cpu/c-code
+* **Project Maintainer:** Moaz Ahmed
+* **Project Link:** https://github.com/moazaahmed/c-code
