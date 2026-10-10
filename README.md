@@ -16,14 +16,6 @@ Follow these steps to set up the project locally.
    ```bash
    cd c-code
    ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Set up your environment variables:
-   * Create a `.env` file in the root directory.
-   * Duplicate the keys from `.env.example` and add your local values.
-
 ## ✉️ Contact
 
 * **Project Maintainer:** Moaz Ahmed
