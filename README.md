@@ -5,12 +5,6 @@
 
 Follow these steps to set up the project locally.
 
-### Prerequisites
-
-List any software, tools, or global packages needed before installing.
-* npm (v9.0.0 or higher)
-* Node.js (v18.0.0 or higher)
-* [Other required tools]
 
 ### Installation
 
